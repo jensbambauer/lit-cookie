@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/jensbambauer.litts-ky8ommvi-fork-ky8oo7xc",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve zrElhNY1B9HTV4laxWyv --open"
+  },
+  "dependencies": {}
+}
